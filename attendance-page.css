@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+.container {
+    margin-top: 50px;
+}
+.card {
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.btn-primary {
+    background-color: #B1935A;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #916f48;
+}
+.form-label {
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    margin-top: 50px;
+}
